@@ -1,1 +1,1 @@
-# FarmertApp
+# FarmerApp
